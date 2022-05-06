@@ -12,4 +12,4 @@ web-build/
 
 # macOS
 .DS_Store
-./libs/api.ts
+src/libs/api.ts
