@@ -35,7 +35,9 @@ This mobile project was initially thought as WEB and to be something "Simple", b
 #### 2- Install all dependencies
    `npm install`
 
-#### 3- (You must have [EXPO](https://docs.expo.dev/get-started/installation/) installed on your computer) Run the project 
+#### 3- Transform the `api.example.ts` file into `api.ts` and replace the baseURL with the url where the server is running
+
+#### 4- (You must have [EXPO](https://docs.expo.dev/get-started/installation/) installed on your computer) Run the project 
    `expo run dev`
  
 ### 🔨 Project Features
