@@ -18,7 +18,7 @@
 
 ### Project Description
 ###### description
-This project was meant to be something "Simple", but that helps me to study reactJS, reactNative (I'm going to make the mobile version) and nodeJS - caring about accessibility. The project's goal is to be a widget where the user can send feedback, be it a bug, an improvement idea or any other feedback that doesn't fit in these other two categories, besides that, the user will have the option to insert a screenshot, but this one won't have to take a print, since by clicking the button the print is done automatically and applied in the feedback. When sending this feedback, it is entered into a database and emailed to the developers.
+This mobile project was initially thought as WEB and to be something "Simple", but that would help me study reactJS, reactNative(now with the mobile version) and nodeJS - worrying about accessibility. The goal of the project is to be a widget where the user can send feedback, be it a bug, an improvement idea or any other feedback that doesn't fit in these other two categories, besides that, the user will have the option to insert a screenshot, but the user won't have to take a screenshot, since by clicking the button the screenshot is automatically made and applied in the feedback. When sending this feedback, it is entered into a database and emailed to the developers, meaning **me**.
 
 ### Techniques and Technologies
 ###### technologies
